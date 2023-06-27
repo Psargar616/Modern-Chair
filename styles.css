@@ -431,7 +431,7 @@ h5{
     background-color: #5d6160;
 }
 
-@media screen and (max-width: 991px) {
+@media screen and (max-width: 990px) {
     .section {
       margin: 0 auto;
       text-align: center;
